@@ -1,0 +1,17 @@
+C:\Users\comp1\source\repos\LocalizationPrism\LocalizationPrism\LocalizationPrism\bin\Debug\netstandard2.0\LocalizationPrism.deps.json
+C:\Users\comp1\source\repos\LocalizationPrism\LocalizationPrism\LocalizationPrism\bin\Debug\netstandard2.0\LocalizationPrism.dll
+C:\Users\comp1\source\repos\LocalizationPrism\LocalizationPrism\LocalizationPrism\bin\Debug\netstandard2.0\LocalizationPrism.pdb
+C:\Users\comp1\source\repos\LocalizationPrism\LocalizationPrism\LocalizationPrism\obj\Debug\netstandard2.0\LocalizationPrism.csproj.AssemblyReference.cache
+C:\Users\comp1\source\repos\LocalizationPrism\LocalizationPrism\LocalizationPrism\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\comp1\source\repos\LocalizationPrism\LocalizationPrism\LocalizationPrism\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\comp1\source\repos\LocalizationPrism\LocalizationPrism\LocalizationPrism\obj\Debug\netstandard2.0\LocalizationPrism.AssemblyInfoInputs.cache
+C:\Users\comp1\source\repos\LocalizationPrism\LocalizationPrism\LocalizationPrism\obj\Debug\netstandard2.0\LocalizationPrism.AssemblyInfo.cs
+C:\Users\comp1\source\repos\LocalizationPrism\LocalizationPrism\LocalizationPrism\obj\Debug\netstandard2.0\LocalizationPrism.csproj.CoreCompileInputs.cache
+C:\Users\comp1\source\repos\LocalizationPrism\LocalizationPrism\LocalizationPrism\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\comp1\source\repos\LocalizationPrism\LocalizationPrism\LocalizationPrism\obj\Debug\netstandard2.0\LocalizationPrism.dll
+C:\Users\comp1\source\repos\LocalizationPrism\LocalizationPrism\LocalizationPrism\obj\Debug\netstandard2.0\LocalizationPrism.pdb
+C:\Users\comp1\source\repos\LocalizationPrism\LocalizationPrism\LocalizationPrism\bin\Debug\netstandard2.0\ja\LocalizationPrism.resources.dll
+C:\Users\comp1\source\repos\LocalizationPrism\LocalizationPrism\LocalizationPrism\obj\Debug\netstandard2.0\LocalizationPrism.Resx.AppResources.resources
+C:\Users\comp1\source\repos\LocalizationPrism\LocalizationPrism\LocalizationPrism\obj\Debug\netstandard2.0\LocalizationPrism.Resx.AppResources.ja.resources
+C:\Users\comp1\source\repos\LocalizationPrism\LocalizationPrism\LocalizationPrism\obj\Debug\netstandard2.0\LocalizationPrism.csproj.GenerateResource.cache
+C:\Users\comp1\source\repos\LocalizationPrism\LocalizationPrism\LocalizationPrism\obj\Debug\netstandard2.0\ja\LocalizationPrism.resources.dll
